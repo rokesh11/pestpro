@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PestPro</string>
+    <string name="My_Dashboard">எனது டாஷ்போர்டு</string>
+    <string name="Home">முகப்பு</string>
+    <string name="Upload">பதிவேற்றம்</string>
+    <string name="Camera">கேமரா</string>
+    <string name="Settings">அமைப்புகள்</string>
+    <string name="instruction">வழிமுறைகள்</string>
+    <string name="History">வரலாறு</string>
+    <string name="morning">காலை வணக்கம்</string>
+    <string name="explore">ஆராயுங்கள்</string>
+    <string name="upload_head">தேர்ந்தெடுக்கப்பட்ட படம்</string>
+    <string name="choose_image">படத்தைத் தேர்வு / மாற்றவும்</string>
+    <string name="upload_image">நோய்க்கான ஸ்கேன்</string>
+    <string name="set_lang">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="selected_lang">ஆங்கிலம்</string>
+    <string name="lang1">ஆங்கிலம்</string>
+    <string name="lang2">தமிழ்</string>
+    <string name="lang3">இந்தி</string>
+    <string name="upload_head2">கேமராவைப் பயன்படுத்தி படம் பிடிக்கப்பட்டது \n</string>
+    <string name="upload3">கேலரியில் இருந்து தேர்ந்தெடுக்கப்பட்ட படம்\n</string>
+
+    <string name="instr_sett">அமைப்புகளுக்கு செல்ல இந்த ஐகானைக் கிளிக் செய்க</string>
+    <string name="instr_gall">படத்தைப் பதிவேற்ற இந்த ஐகானைக் கிளிக் செய்க</string>
+    <string name="instr_cam">கேமராவைத் திறக்க இந்த ஐகானைக் கிளிக் செய்க</string>
+    <string name="instr_hist">வரலாற்றைக் காண இந்த ஐகானைக் கிளிக் செய்க</string>
+    <string name="instr_info">வழிமுறைகளைப் படிக்க இந்த ஐகானைக் கிளிக் செய்க</string>
+
+    <string name="instr">வணக்கம், இது வாழைப்பழத்தை பாதிக்கும் பூச்சிகள் மற்றும் நோய்களைக் கண்டறிய செயற்கை நுண்ணறிவைப் பயன்படுத்தும் மொபைல் பயன்பாடு ஆகும். இந்த பயன்பாடு மூன்று படிகளுடன் செயல்படுகிறது: \n தாவரத்தின் ஒரு படத்தை அல்லது ஒரு தாவர பகுதியை எடுத்துக்கொள்ளுங்கள்
+தாவரத்தின் படத்தை பதிவேற்றவும், சில நொடிகளில் குறிப்பிட்ட நோயறிதலைப் பெறவும், அதனுடன் பொருத்தமான கட்டுப்பாட்டு நடவடிக்கைகளுடன்
+மகசூல் இழப்புகளைக் குறைக்க. \n</string>
+
+    <string name="result">விளைவாக</string>
+
+    <string name="action">செயலைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="delete">அழி</string>
+    <string name="namehint">படத்தின் பெயரை உள்ளிடவும்</string>
+    <string name="instr_delete">படத்தை நீக்க நீண்ட கிளிக் செய்யவும்</string>
+    <string name="instr_delete1">இவை சமீபத்தில் ஸ்கேன் செய்யப்பட்ட படங்கள்</string>
+
+</resources>

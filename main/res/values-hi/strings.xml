@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PestPro</string>
+    <string name="My_Dashboard">मेरा डैशबोर्ड</string>
+    <string name="Home">होम</string>
+    <string name="Upload">अपलोड</string>
+    <string name="Camera">कैमरा</string>
+    <string name="Settings">सेटिंग्स</string>
+    <string name="instruction">अनुदेश</string>
+    <string name="History">इतिहास</string>
+    <string name="morning">शुभ प्रभात</string>
+    <string name="explore">अन्वेषण</string>
+    <string name="upload_head">चयनित छवि</string>
+    <string name="choose_image">छवि बदलें / चुनें</string>
+    <string name="upload_image">बीमारी के लिए स्कैन</string>
+    <string name="set_lang">भाषा चुनिए</string>
+    <string name="selected_lang">अंग्रेज़ी</string>
+    <string name="lang1">अंग्रेज़ी</string>
+    <string name="lang2">तामिल</string>
+    <string name="lang3">हिन्दी</string>
+    <string name="upload_head2">कैमरे का उपयोग करके छवि कैप्चर की गई \n</string>
+    <string name="upload3">गैलरी से चयनित छवि \n</string>
+
+    <string name="instr_sett">सेटिंग्स पर नेविगेट करने के लिए इस आइकन पर क्लिक करें।</string>
+    <string name="instr_gall">गैलरी से छवि अपलोड करने के लिए इस आइकन पर क्लिक करें।</string>
+    <string name="instr_cam">कैमरा खोलने के लिए इस आइकन पर क्लिक करें।</string>
+    <string name="instr_hist">इतिहास देखने के लिए इस आइकन पर क्लिक करें।</string>
+    <string name="instr_info">निर्देश पढ़ने के लिए इस आइकन पर क्लिक करें।</string>
+
+    <string name="instr">नमस्कार, यह एक मोबाइल एप्लिकेशन है जो केले को प्रभावित करने वाले कीटों और बीमारियों का पता लगाने के लिए कृत्रिम बुद्धिमत्ता का उपयोग करता है। यह ऐप केवल तीन चरणों के साथ काम करता है: \n एक
+पौधे या पौधे के भाग का स्नैपशॉट / चित्र, चित्र अपलोड करें, और कुछ ही सेकंड में विशिष्ट निदान प्राप्त करें, साथ में उचित नियंत्रण के उपाय भी
+उपज हानि को कम करने के लिए आदेश।\n</string>
+
+    <string name="result">परिणाम</string>
+
+    <string name="action">कार्रवाई चुनें</string>
+    <string name="delete">हटाएं</string>
+    <string name="namehint">छवि का नाम दर्ज करें</string>
+    <string name="instr_delete">इसे हटाने के लिए इमेज को लॉन्ग प्रेस करें</string>
+    <string name="instr_delete1">ये हाल ही में स्कैन की गई तस्वीरें हैं।</string>
+
+</resources>

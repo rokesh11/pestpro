@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">PestPro</string>
+    <string name="My_Dashboard">My Dashboard</string>
+    <string name="Home">Home</string>
+    <string name="Upload">Upload</string>
+    <string name="Camera">Camera</string>
+    <string name="Settings">Settings</string>
+    <string name="instruction">Instructions</string>
+    <string name="History">History</string>
+    <string name="morning">Good Morning</string>
+    <string name="explore">Explore</string>
+    <string name="upload_head">Selected Image </string>
+    <string name="choose_image">Choose / Change Image</string>
+    <string name="upload_image">Scan for disease</string>
+    <string name="set_lang">Select Language</string>
+    <string name="selected_lang">English</string>
+    <string name="lang1">English</string>
+    <string name="lang2">Tamil</string>
+    <string name="lang3">Hindi</string>
+    <string name="upload_head2">Image captured using camera</string>
+    <string name="upload3">Selected Image from gallery</string>
+
+    <string name="instr_sett">Click this Icon to navigate to settings.</string>
+    <string name="instr_gall">Click this Icon to upload image from gallery.</string>
+    <string name="instr_cam">Click this Icon to open Camera.</string>
+    <string name="instr_hist">Click this Icon to view History.</string>
+    <string name="instr_info">Click this Icon to read Instructions.</string>
+
+    <string name="instr">Hello, This is a mobile application that uses artificial intelligence to detect pestes and diseases affecting banana.This app works with just three steps:\nTake a
+snapshot/image of the plant or a plant part, upload the image ,and receive specific diagnosis in a few seconds,along with appropriate control measures in
+order to reduce yield losses.\n</string>
+
+    <string name="result">Result</string>
+
+    <string name="action">Select Action</string>
+    <string name="delete">Delete</string>
+    <string name="namehint">Enter Image Name</string>
+    <string name="instr_delete">Long Press the image to delete it.</string>
+    <string name="instr_delete1">These are the recently scanned pictures.</string>
+
+</resources>
